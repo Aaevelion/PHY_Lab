@@ -91,7 +91,7 @@ print("Error in standard deviation:", sigma_error)
 
 ```
 
-Code to obtain the intersection points of the Gaussian beam profile with the 1/e^2 intensity level.
+Code to obtain the intersection points of the Gaussian beam profile with the $1/e^2$ intensity level.
 
 ```
 import numpy as np
